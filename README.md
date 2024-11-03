@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyanwick
-- 👀 I’m interested in network and security
+- 👀 I’m interested in software, game development and a little bit of security.
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on software projects regarding security
 - 📫 How to reach me kyanmigueloberas1@gmail.com
