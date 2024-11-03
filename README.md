@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kyanwick
-- 👀 I’m interested in software, game development and a little bit of security.
+- 👀 I’m interested in software, game development and a little bit of security
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on software projects regarding security
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me kyanmigueloberas1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to create documentary films
